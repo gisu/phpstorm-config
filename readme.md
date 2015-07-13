@@ -6,6 +6,7 @@ A keymap for PHPStorm which brings the most common shortcuts from Sublimetext. I
 - Tested with PHPStorm 9.0
 - Keymap for OSX Systems
 - Editor Config for Indent (2 Spaces) and Smart Keys also included (but make a backup before)
+- German Keyboard
 
 ## Installation
 - Download the Zip or Clone the Repo
@@ -14,14 +15,14 @@ A keymap for PHPStorm which brings the most common shortcuts from Sublimetext. I
 ## Keys 
 - Clone Caret Above: ^⇧↥
 - Clone Caret Below: ^⇧↧
-- Decrase Font Size: ⌘*
-- Increase Font Size: ⌘-
+- Decrase Font Size: ⌘* (eng: ⌘/)
+- Increase Font Size: ⌘- (eng: ⌘])
 - Open File: ⌘T
 - Find Action: ⌘P
 - Find: ⌘F
 - Find in Path: ⌘⇧F 
-- Replace : ⌘R or ⌘⌥F
-- Replace in Path : ⌘⇧R or ⌘⌥F
+- Replace : ⌘R
+- Replace in Path : ⌘⇧R
 - Close Tab : ⌘W
 - Reopen Tab : ⌘⇧W
 - Close All Tabs : ⌘⌥W
@@ -34,9 +35,9 @@ A keymap for PHPStorm which brings the most common shortcuts from Sublimetext. I
 - Select All Occurrences: ^⌥⇧D
 - Add Selection for Next Occurrence: ^D
 - Unselect Occurrence: ^⇧D
-- Delete Line : ⌘K
-- Go To Next Match Found (while searching) : ⌘G
-- Go To Previous Match Found (while searching) : ⌘⇧G
+- Move to Next Occurrence: ⌘G
+- Move to Previous Occurrence: ⌘⇧G
+- Delete Line: ⌘K
 - Go To Line Number : ⌘L
 
 (⌘ = Super | ⇧ = Shift | ⌥ = Alt | ^ = Ctrl)

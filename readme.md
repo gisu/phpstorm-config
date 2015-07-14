@@ -3,7 +3,7 @@
 A keymap for PHPStorm which brings the most common shortcuts from Sublimetext. Intended for developers working with both apps, without breaking the finger :D
 
 ##Info
-- Tested with PHPStorm 9.0
+- Tested with PHPStorm 9.0 (also for Intellij 14 and Webstorm 10)
 - Keymap for OSX Systems
 - Editor Config for Indent (2 Spaces) and Smart Keys also included (but make a backup before)
 - German Keyboard
